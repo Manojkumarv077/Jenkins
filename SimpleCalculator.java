@@ -4,6 +4,7 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         // Create a Scanner object to take input
         Scanner scanner = new Scanner(System.in);
+        System.out.println("the manoj kumar ");
 
         // Ask for input
         System.out.print("Enter first number: ");
